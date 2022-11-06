@@ -4,6 +4,6 @@
     "appName": "JupyterLite Examples",
     "collaborative": true,
     "exposeAppInBrowser": true,
-    "defaultKernelName": "Python (XPython)"
+    "defaultKernelName": "xeus-python"
   }
 }
