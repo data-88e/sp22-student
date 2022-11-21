@@ -1,0 +1,4 @@
+_output
+*jupyterlite.doit.db
+venv/
+.DS_Store
